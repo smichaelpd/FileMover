@@ -1,0 +1,7 @@
+C:\CodeRepos\FileMover\FileMover\FileMover\bin\Debug\FileMover.exe.config
+C:\CodeRepos\FileMover\FileMover\FileMover\bin\Debug\FileMover.exe
+C:\CodeRepos\FileMover\FileMover\FileMover\bin\Debug\FileMover.pdb
+C:\CodeRepos\FileMover\FileMover\FileMover\obj\Debug\FileMover.csproj.AssemblyReference.cache
+C:\CodeRepos\FileMover\FileMover\FileMover\obj\Debug\FileMover.csproj.CoreCompileInputs.cache
+C:\CodeRepos\FileMover\FileMover\FileMover\obj\Debug\FileMover.exe
+C:\CodeRepos\FileMover\FileMover\FileMover\obj\Debug\FileMover.pdb
