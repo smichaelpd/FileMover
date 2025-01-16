@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\release\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\release\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\release\filemoverservice.InstallLog
+Installing service FileMoverService...
+Service FileMoverService has been successfully installed.
+Creating EventLog source FileMoverService in log Application...
+Committing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\release\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\release\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\release\filemoverservice.InstallLog

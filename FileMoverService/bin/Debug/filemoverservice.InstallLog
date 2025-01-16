@@ -1,0 +1,151 @@
+﻿Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Warning: The source FileMoverService is not registered on the local machine.
+Service FileMoverService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Installing service FileMoverService...
+Service FileMoverService has been successfully installed.
+Creating EventLog source FileMoverService in log Application...
+Committing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Installing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Installing service FileMoverService...
+Service FileMoverService has been successfully installed.
+Creating EventLog source FileMoverService in log Application...
+Committing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Attempt to stop service FileMoverService.
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Warning: The source FileMoverService is not registered on the local machine.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Attempt to stop service FileMoverService.
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Attempt to stop service FileMoverService.
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Warning: The source FileMoverService is not registered on the local machine.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Attempt to stop service FileMoverService.
+Installing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Installing service FileMoverService...
+Creating EventLog source FileMoverService in log Application...
+Rolling back assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Restoring event log to previous state for source FileMoverService.
+Installing assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Installing service FileMoverService...
+Creating EventLog source FileMoverService in log Application...
+Rolling back assembly 'C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Restoring event log to previous state for source FileMoverService.
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Installing assembly 'C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Installing service FileMoverService...
+Service FileMoverService has been successfully installed.
+Creating EventLog source FileMoverService in log Application...
+Committing assembly 'C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Installing assembly 'C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Installing service FileMoverService...
+Service FileMoverService has been successfully installed.
+Creating EventLog source FileMoverService in log Application...
+Committing assembly 'C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
