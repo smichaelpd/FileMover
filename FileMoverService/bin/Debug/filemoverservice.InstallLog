@@ -149,3 +149,12 @@ Affected parameters are:
    logtoconsole = 
    assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
    logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Uninstalling assembly 'C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.exe
+   logfile = C:\CodeRepos\FileMover\FileMoverService\bin\Debug\filemoverservice.InstallLog
+Removing EventLog source FileMoverService.
+Service FileMoverService is being removed from the system...
+Service FileMoverService was successfully removed from the system.
+Attempt to stop service FileMoverService.

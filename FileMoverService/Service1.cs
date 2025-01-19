@@ -13,8 +13,10 @@ namespace FileMoverService
         private static System.Timers.Timer timer;
         private static string input_dir = @"D:\Shares\Sales_Export\Staging";
         private static string output_dir = @"D:\Shares\Sales_Export";
+        //private static string input_dir = @"C:\Staging";
+        //private static string output_dir = @"C:\Export";
         private static string fileExtension = "*.ord";
-        private static double interval = 1;
+        private static double interval = 1.5;
         private static double minFileAge = 3;
         List<string> copyInProgress = new List<string>();
 
