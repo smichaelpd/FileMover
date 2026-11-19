@@ -8,3 +8,13 @@ C:\CodeRepos\FileMover\FileMoverService\FileMoverService\obj\Release\FileMoverSe
 C:\CodeRepos\FileMover\FileMoverService\FileMoverService\obj\Release\FileMoverService.csproj.CoreCompileInputs.cache
 C:\CodeRepos\FileMover\FileMoverService\FileMoverService\obj\Release\FileMoverService.exe
 C:\CodeRepos\FileMover\FileMoverService\FileMoverService\obj\Release\FileMoverService.pdb
+C:\Dev\FileMover\FileMoverService\bin\Release\FileMoverService.exe.config
+C:\Dev\FileMover\FileMoverService\bin\Release\FileMoverService.exe
+C:\Dev\FileMover\FileMoverService\bin\Release\FileMoverService.pdb
+C:\Dev\FileMover\FileMoverService\obj\Release\FileMoverService.csproj.AssemblyReference.cache
+C:\Dev\FileMover\FileMoverService\obj\Release\FileMoverService.ProjectInstaller.resources
+C:\Dev\FileMover\FileMoverService\obj\Release\FileMoverService.FileMoverService.resources
+C:\Dev\FileMover\FileMoverService\obj\Release\FileMoverService.csproj.GenerateResource.cache
+C:\Dev\FileMover\FileMoverService\obj\Release\FileMoverService.csproj.CoreCompileInputs.cache
+C:\Dev\FileMover\FileMoverService\obj\Release\FileMoverService.exe
+C:\Dev\FileMover\FileMoverService\obj\Release\FileMoverService.pdb
